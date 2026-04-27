@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "firstname": "Сод-Од",
+    "job": "Захирал",
+    "alive": true,
+    "mail": "sod-od@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "88086590"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "firstname": "Тамир",
+    "job": "Сургалтын менежер",
+    "alive": true,
+    "mail": "tamir@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "80972255"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "firstname": "Ганхүлэг",
+    "job": "Аж ахуйн албаны менежер",
+    "alive": true,
+    "mail": "ganhuleg@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "89119145"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "firstname": "Мэнд-Амар",
+    "job": "Эмч",
+    "alive": true,
+    "mail": "mend-amar@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "99179921"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "firstname": "Намуунаа",
+    "job": "Нийгмийн ажилтан",
+    "alive": true,
+    "mail": "namuunaa@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "97151477"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "firstname": "Гэрэлтуяа",
+    "job": "Сэтгэл зүйч",
+    "alive": true,
+    "mail": "gereltuya@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "96680308"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "firstname": "Жавзандулам",
+    "job": "МХУЗ-ын багш",
+    "alive": true,
+    "mail": "javzandulam@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "86218968"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "firstname": "Адьяахүү",
+    "job": "Математикийн багш",
+    "alive": true,
+    "mail": "adiahuu@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "95906890"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "firstname": "Оюунтуяа",
+    "job": "Математикийн багш",
+    "alive": true,
+    "mail": "oyuntuya@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "99231459"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "firstname": "Рэнцэнхорлоо",
+    "job": "Математикийн багш",
+    "alive": true,
+    "mail": "rentsenhorloo@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "99135884"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "firstname": "Батхишиг",
+    "job": "Химийн багш",
+    "alive": true,
+    "mail": "batkhishig@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "99217646"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "firstname": "Тэгшдэлгэр",
+    "job": "Физикийн багш",
+    "alive": true,
+    "mail": "tegshdelger@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "99795155"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "firstname": "Дөл",
+    "job": "Англи хэлний багш",
+    "alive": true,
+    "mail": "dul@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "99173205"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "firstname": "Lavenia",
+    "job": "Англи хэлний багш",
+    "alive": true,
+    "mail": "lavenia@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "94164859"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "firstname": "Лхагважаргал",
+    "job": "Англи хэлний багш",
+    "alive": true,
+    "mail": "lkhagvajargal@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "99506934"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "firstname": "Чанцалням",
+    "job": "Нийгэм, түүхийн багш",
+    "alive": true,
+    "mail": "chancalnyam@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "89894044"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "firstname": "Азжаргал",
+    "job": "",
+    "alive": true,
+    "mail": "azjargal@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "80504557"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "firstname": "Тэмүжин",
+    "job": "",
+    "alive": true,
+    "mail": "temuujin@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "99230125"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "firstname": "Өсөхбаатар",
+    "job": "",
+    "alive": true,
+    "mail": "usukhbaatar@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "88084928"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "firstname": "Мөнх-Оргил",
+    "job": "IT-ийн багш",
+    "alive": true,
+    "mail": "munkh-orgil@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "86000660"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "firstname": "Цэрэнлхагва",
+    "job": "",
+    "alive": true,
+    "mail": "cerenlkhagva@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "99038827"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "firstname": "Бархасболд",
+    "job": "",
+    "alive": true,
+    "mail": "barkhasbold@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "89963336"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "firstname": "Охиноо",
+    "job": "Кафе",
+    "alive": true,
+    "mail": "okhinoo@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "91162493"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "firstname": "Оросоо",
+    "job": "Кафе",
+    "alive": true,
+    "mail": "orosoo@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "88550439"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "firstname": "Баттөмөр",
+    "job": "",
+    "alive": true,
+    "mail": "battumur@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "89076774"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "firstname": "Лхамжав",
+    "job": "Харуул",
+    "alive": true,
+    "mail": "lkhamjav@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "96611830"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "firstname": "Пүрэвсүрэн",
+    "job": "",
+    "alive": true,
+    "mail": "purevsuren@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "94966041"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "firstname": "Чанцал",
+    "job": "Үйлчлэгч",
+    "alive": true,
+    "mail": "chancal@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "86850006"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "firstname": "Насанжаргал",
+    "job": "",
+    "alive": true,
+    "mail": "nasanjargal@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "88065841"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "firstname": "Эрдэнэцэцэг",
+    "job": "Биеийн тамир",
+    "alive": true,
+    "mail": "erdenetsetseg@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "89678299"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "firstname": "Анхбаяр",
+    "job": "AI-ийн багш",
+    "alive": true,
+    "mail": "ankhbayar@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "99030500"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "firstname": "Уржинханд",
+    "job": "Биологийн багш",
+    "alive": true,
+    "mail": "urjinkhand@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "88831683"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "firstname": "Батцэцэг",
+    "job": "ITRES-ийн багш",
+    "alive": true,
+    "mail": "battsetseg@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "91917405"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "firstname": "Энхтөр",
+    "job": "Кибер аюулгүй байдлын багш",
+    "alive": true,
+    "mail": "enkhtuur@nhs.edu.mn",
+    "password": "1234",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UOiHZq_kreTAbUxIpi8XntVxA5jhzPhKFw&s",
+    "items": [
+      {
+        "id": 10,
+        "name": "laptop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kbvl9HCNd9Y_oagvuzhlfM-nF8X0-B6RIA&s"
+      },
+      {
+        "id": 11,
+        "phone_number": "99054973"
+      }
+    ]
+  }
+]

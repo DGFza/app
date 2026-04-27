@@ -1,0 +1,577 @@
+[
+  {
+    "id": 1,
+    "firstname": "Ананд",
+    "lastname": "Амарзая",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Ананд",
+    "lastname": "Бямбацогт",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Ариунбаяр",
+    "lastname": "Амгаабазар",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Батбилэг",
+    "lastname": "Энхбат",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Золбоо",
+    "lastname": "Азжаргал",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Зоригт",
+    "lastname": "Эрхүүбат",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Маргад ",
+    "lastname": "Эрдэнэчyлyyн",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Мөнхболд",
+    "lastname": "Mөнхбат",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Мөнхнар",
+    "lastname": "Энхтөр",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Мөнхчимэг",
+    "lastname": "Төвшин",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Нямдорж",
+    "lastname": "Цэрэнпүрэв",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Нямрагчаа",
+    "lastname": "Ерөөлт",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Пүрэвбат",
+    "lastname": "Мөнхбат",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Тэмүүлэн",
+    "lastname": "Хурцбаатар",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Тэнүүн",
+    "lastname": "Оч",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Тэргэл",
+    "lastname": "Батбаатар",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Цолмон",
+    "lastname": "Батхишиг",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Цэлмүүн",
+    "lastname": "Баясгалан",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Цэлмэг",
+    "lastname": "Батнасан",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Чингүн",
+    "lastname": "Ганцацрал",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Энхбилэг",
+    "lastname": "Эрдэнэбаатар",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Энхтүшиг",
+    "lastname": "Сугар",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Эрхэмбилэг",
+    "lastname": "Мөнхбат",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Уранхишиг",
+    "lastname": "Бат-Эрдэнэ",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstname": "Манлайбаатар",
+    "lastname": "Уламбаяр",
+    "job": "сурагч",
+    "alive": true,
+    "age": 16,
+    "mail": "nest@nhs.edu.mn",
+    "password": "4321",
+    "img": "https://media.tenor.com/ly-hq6UGTCcAAAAM/dumb-patrick.gif",
+    "items": [
+      {
+        "id": 10,
+        "name": "дэвтэр",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa5pE0WdFIGAaRv9_G5S9ONm5zomP9kCR0A&s"
+      },
+      {
+        "id": 11,
+        "name": "үзэг",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAtLEmhD9kF2oT3tTAE66yn5zqEtCxoSL_g&s"
+      }
+    ]
+  }
+]
