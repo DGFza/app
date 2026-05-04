@@ -1,7 +1,12 @@
-/node_modules
+# dependencies
+node_modules/
 
-/build
+# build outputs
+.next/
+build/
 
-/.next/
+# environment variables
+.env
 
+# next.js
 next-env.d.ts
